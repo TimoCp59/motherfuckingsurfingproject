@@ -1,0 +1,9 @@
+.jumbotron {
+	height: 400px;
+text-align: center;
+background-image: url(surf1.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+color: white;
+}
